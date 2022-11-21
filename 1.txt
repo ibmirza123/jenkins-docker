@@ -1,0 +1,2 @@
+git config credential.helper 'cache --timeout=300'
+for updating the cache time for credentials in memory
